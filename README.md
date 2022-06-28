@@ -1,5 +1,5 @@
 - 🤫  Olá eu sou a Ketlin 🤫
-- 🤔  Estou interessada em aprender 🤔
+- :book:  Estou interessada em aprender :book:
 - 🤗  Gosto de mexer no celular 🤗
 
 <!---
